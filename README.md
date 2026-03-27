@@ -25,8 +25,7 @@ infographics to cybercrime awareness.
 - **Task 5:** Researched phishing as a cybercrime case study
 
 ## Google Form Quiz Link
-[Click here to take the Digital Literacy Quiz](#)
-*(Will be updated after Task 3 is completed)*
+[Click here to take the Digital Literacy Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd7cKRtNsEQQ9uV7Fo8QZrolbAxRnlAatb_aeLtkFlZXsQ-Eg/viewform?usp=publish-editor)
 
 ## Repository Structure
 - `task-1-presentation/` – Infographic and description
