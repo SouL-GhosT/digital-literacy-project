@@ -4,9 +4,9 @@
 
 | Platform   | Profile URL                              | Purpose                              |
 |------------|------------------------------------------|--------------------------------------|
-| GitHub     | github.com/yourusername                  | Code repositories and projects       |
-| LinkedIn   | linkedin.com/in/yourprofile              | Professional networking              |
-| Kaggle     | kaggle.com/yourusername                  | Data science practice and datasets   |
+| GitHub     | [github.com/SouL-GhosT](https://github.com/SouL-GhosT)                  | Code repositories and projects       |
+| LinkedIn   | [linkedin.com/in/sakcham-shaw-5889513ba/](https://www.linkedin.com/in/sakcham-shaw-5889513ba/)| Professional networking              |
+| Kaggle     | [kaggle.com/sakcham25mei10005](https://www.kaggle.com/sakcham25mei10005)                 | Data science practice and datasets   |
 
 > Replace the URLs above with your actual profile links.
 
@@ -31,7 +31,7 @@
 - Filled in basic profile information including name and university
 - Explored the platform's datasets and competitions section
 
-## Reflection (150–200 words)
+## Reflection 
 
 For Task 2, I set up professional profiles on three platforms — GitHub, LinkedIn,
 and Kaggle. Each platform serves a distinct purpose in building a student's digital
@@ -57,7 +57,7 @@ rather than scrambling to create them at placement time.
 
 ## Files in this Folder
 
-- `reflection.md` – This file (platforms, reflection)
-- `github-profile.png` – Screenshot of GitHub profile (upload here)
-- `linkedin-profile.png` – Screenshot of LinkedIn profile (upload here)
-- `kaggle-profile.png` – Screenshot of Kaggle profile (upload here)
+- [reflection.md](reflection.md) – This file (platforms, reflection)
+- [github-profile.png](github-profile.png) – Screenshot of GitHub profile (upload here)
+- [linkedin-profile.png](linkedin-profile.png) – Screenshot of LinkedIn profile (upload here)
+- [kaggle-profile.png](kaggle-profile.png) – Screenshot of Kaggle profile (upload here)
