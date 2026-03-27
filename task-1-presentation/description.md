@@ -1,7 +1,7 @@
 # Task 1 – Digital Literacy Awareness Infographic
 
 ## Tool Used
-[canva.com](canva.com)
+[Canva](canva.com)
 
 ## What the Infographic Shows
 
