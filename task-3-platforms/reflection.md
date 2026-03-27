@@ -34,8 +34,7 @@ This challenge helps beginners understand array declaration, initialization, loo
 
 **Form Title:** Digital Literacy Awareness Quiz
 
-**Form Link:** [Click here to take the quiz](#)
-> Replace `#` with your actual Google Form share link.
+**Form Link:** [Click here to take the quiz](https://docs.google.com/forms/d/e/1FAIpQLSd7cKRtNsEQQ9uV7Fo8QZrolbAxRnlAatb_aeLtkFlZXsQ-Eg/viewform?usp=publish-editor)
 
 **Questions included:**
 
@@ -77,8 +76,8 @@ surveys, and group assignments throughout my B.Tech.
 
 ## Files in this Folder
 
-- `reflection.md` – This file (platforms used, reflection)
-- `hackerrank-challenge.png` – Screenshot of completed HackerRank challenge 
-- `google-form.png` – Screenshot of the Google Form 
-- `google-sheet.png` – Screenshot of the linked Google Sheet response view 
+- [reflection.md](reflection.md) – This file (platforms used, reflection)
+- [hackerrank-challenge.png](hackerrank-challenge.png) – Screenshot of completed HackerRank challenge 
+- [google-form.png](google-form.png) – Screenshot of the Google Form 
+- [google-sheet.png](google-sheet.png) – Screenshot of the linked Google Sheet response view 
 
