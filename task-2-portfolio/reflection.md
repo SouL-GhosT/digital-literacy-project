@@ -8,8 +8,6 @@
 | LinkedIn   | [linkedin.com/in/sakcham-shaw-5889513ba/](https://www.linkedin.com/in/sakcham-shaw-5889513ba/)| Professional networking              |
 | Kaggle     | [kaggle.com/sakcham25mei10005](https://www.kaggle.com/sakcham25mei10005)                 | Data science practice and datasets   |
 
-> Replace the URLs above with your actual profile links.
-
 ## What I Did on Each Platform
 
 ### GitHub
