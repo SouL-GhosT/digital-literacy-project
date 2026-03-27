@@ -103,3 +103,24 @@ feedback surveys.
 
 ---
 
+## Task 4 – Professional Email & Etiquette Guide
+
+For Task 4, I drafted two professional emails and created a social media etiquette
+checklist. Writing the emails reinforced the importance of structure, tone, and
+conciseness in professional digital communication.
+
+A real-world example of poor digital communication: a student sent an angry,
+informal email to a professor demanding a grade change, with no subject line,
+informal language, and accusatory tone. The professor forwarded it to the
+department head, resulting in a formal disciplinary discussion. What could have
+been done differently: the student should have waited before sending, used a
+professional subject line and greeting, calmly stated their concern with evidence,
+and requested a meeting rather than making demands in writing.
+
+This task reinforced that emails are permanent records, and tone matters as much
+as content. A short, well-written email always leaves a better impression than
+a long, poorly structured one.
+
+---
+
+
