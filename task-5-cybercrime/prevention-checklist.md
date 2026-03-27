@@ -70,6 +70,3 @@
 > reporting increases the chances of recovering your funds.
 
 ---
-
-*Created for CSE0001 – Digital Literacy | VIT Bhopal University*
-
