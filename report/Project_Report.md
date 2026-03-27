@@ -143,3 +143,33 @@ directly from emails. I will also share this knowledge with my batchmates as par
 of my Digital Ambassador role.
 
 ---
+
+## Conclusion
+
+This project gave me a practical introduction to the skills required to navigate
+the digital world as a student and future professional. I learned how to build
+a professional online presence, use collaboration tools effectively, communicate
+formally over email, and protect myself from online threats. The most valuable
+takeaway was that digital literacy is not just about using technology — it is about
+using it responsibly, safely, and purposefully. I will carry these skills and
+habits throughout my academic journey and beyond.
+
+---
+
+## References
+
+| Resource | URL |
+|----------|-----|
+| Canva – Design Tool | canva.com |
+| GitHub | github.com |
+| LinkedIn | linkedin.com |
+| Kaggle | kaggle.com |
+| HackerRank | hackerrank.com |
+| Google Forms | forms.google.com |
+| National Cyber Crime Portal | cybercrime.gov.in |
+| Cyber Crime Helpline | 1930 (24x7) |
+
+---
+
+*Submitted in partial fulfilment of CSE0001 – Digital Literacy*
+*VIT Bhopal University | 2025–2026*
