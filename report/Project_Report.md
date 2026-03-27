@@ -123,4 +123,23 @@ a long, poorly structured one.
 
 ---
 
+## Task 5 – Cybercrime Awareness Case Study
 
+For Task 5, I researched phishing as a cybercrime type and wrote a case study
+based on a realistic scenario targeting first-year college students. The scenario
+described how an attacker impersonates a university IT department to trick a
+student into entering their login credentials on a fake website, resulting in
+account theft and potential financial loss.
+
+While researching this topic, the thing that surprised me most was how convincing
+modern phishing attempts can look. Attackers put significant effort into copying
+logos, layouts, and even email addresses, making the fake communication nearly
+indistinguishable from the real thing. I had assumed phishing attempts were always
+obvious, but that is clearly not the case.
+
+One habit I will personally change as a result of this task is always checking the
+full URL of any website before entering my login details, and never clicking links
+directly from emails. I will also share this knowledge with my batchmates as part
+of my Digital Ambassador role.
+
+---
