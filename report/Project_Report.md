@@ -78,3 +78,28 @@ scrambling at placement time.
 
 ---
 
+## Task 3 – Coding & Collaboration Platforms
+
+For Task 3, I used two platforms — HackerRank for coding practice and Google
+Forms for building a collaborative quiz tool.
+
+On HackerRank, I completed the "Arrays - DS" beginner challenge in Java. The problem
+required me to create an integer array of size n, store values read from input into
+each index sequentially, and print them. Even though the concept was straightforward,
+getting familiar with the platform's code editor, input/output format, and submission
+system was very useful. HackerRank is widely used by companies for technical
+screening, so building comfort with Java array handling and the platform itself
+early in my degree is a great advantage.
+
+For the Google Forms component, I created a five-question Digital Literacy
+Awareness Quiz with both multiple choice and short answer questions. The form is
+linked to a Google Sheet that automatically records responses, making it easy to
+review results. This quiz could genuinely be used in my role as a Digital
+Ambassador to test my batchmates' awareness of online safety topics.
+
+Both tools will be academically useful — HackerRank for coding practice ahead of
+placements, and Google Forms for collecting data in research projects and
+feedback surveys.
+
+---
+
