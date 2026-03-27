@@ -29,5 +29,3 @@
 | 7 | **Don't post anything you would regret** – The internet has a long memory. Deleted posts can still be screenshotted and shared. |
 
 ---
-
-*Created for CSE0001 – Digital Literacy | VIT Bhopal University*
