@@ -21,7 +21,7 @@
 - Filled in the Education section:
   - Degree: B.Tech
   - Institution: VIT Bhopal University
-  - Expected Graduation: 2028
+  - Expected Graduation: 2029
 - Kept the profile minimal and professional
 
 ### Kaggle
