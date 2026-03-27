@@ -54,3 +54,27 @@ simple icons. Overall, this task helped me appreciate how visual communication
 can make complex information more accessible to a wider audience.
 
 ---
+
+## Task 2 – Student Digital Portfolio
+
+For Task 2, I set up professional profiles on three platforms — GitHub, LinkedIn,
+and Kaggle. Each platform serves a distinct purpose in building a student's
+digital presence.
+
+GitHub is primarily used by developers and students to host code, collaborate on
+projects, and showcase their technical work. I created a profile README with my
+name, branch, year, and a brief statement about my learning goals. Over the next
+four years, I plan to use GitHub to store programming assignments and personal
+projects.
+
+LinkedIn is a professional networking platform used by employers, recruiters, and
+students worldwide. I filled in my Education section with my current degree and
+institution details. Over time, I plan to add internship experiences and project
+links so that potential employers can easily find my profile.
+
+Kaggle is a platform focused on data science and machine learning. Setting up these
+profiles early means I can build them gradually over four years rather than
+scrambling at placement time.
+
+---
+
